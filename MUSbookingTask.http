@@ -1,0 +1,6 @@
+@MUSbookingTask_HostAddress = http://localhost:5063
+
+GET {{MUSbookingTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
